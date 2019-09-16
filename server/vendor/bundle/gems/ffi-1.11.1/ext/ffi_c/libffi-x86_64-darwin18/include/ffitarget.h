@@ -1,1 +1,0 @@
-/Users/kyohei_toyoda/Documents/workspace/personal_dev/grpc-rails-sample/server/vendor/bundle/gems/ffi-1.11.1/ext/ffi_c/libffi/src/x86/ffitarget.h
